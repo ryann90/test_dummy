@@ -7,5 +7,7 @@
 
 	<h2>Hi</h2>
 
+	<p>This is Home Page</p>
+
 </body>
 </html>
